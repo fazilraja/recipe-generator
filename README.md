@@ -73,7 +73,8 @@ Given the cuisine, its score and closest N cuisines, it prints it in the json fo
       "score": 0.02
     }
   ]
-}```
+}
+```
 
 ## get_corpus
 This function takes in the dataframe and returns the corpus of the ingredients. We designed the corpus to have all of the ingredients in yummly.json. The last element in the corpus are the ingredients in the input. This is done so that we can vectorize the data and train the model.
