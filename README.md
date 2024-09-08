@@ -1,4 +1,4 @@
-# CS5293 Spring 2023 Project 2
+# Recipe Generator based on ingrediant using Machine Learning 
 
 # Description
 Ever wondered if you can just look into your fridge and kitchen closet to see what ingredients you have, and depending on it you can create a recipe? Well, now you can. This project is a recipe generator that takes in a list of ingredients and outputs a cuisine id similar to those ingredients from the yummly.json. 
